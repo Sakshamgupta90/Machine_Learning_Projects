@@ -1,5 +1,7 @@
-***Rock vs Mine Prediction***
+## Rock vs Mine Prediction
 
-1. ***Difficulty*** -> Easy
-2. ***Logistic Regression Model*** has been used, as its a binary classification problem, we only have to predict whether its a mine or a rock
-
+- **Difficulty:** Easy
+- **Model Used:** Logistic Regression
+- **Task:** Binary Classification
+- **Goal:** Predict whether the given sonar signal data represents a rock or a mine
+- **Learning Outcome:** Learned data preprocessing, train-test split, model training, evaluation, and prediction
