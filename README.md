@@ -4,5 +4,5 @@ This repository contains all the Machine Learning projects I build while learnin
 | S No | Project Name | Description | Tech Stack
 | ------------ | -------------- | ---------- | ---------- |
 | 01 | Rock vs Mine Sonar Prediction | Built a binary classification model using Logistic Regression to predict whether the sonar signal represents a rock or a mine. Learned the complete workflow including data loading, preprocessing, train-test split, model training, evaluation, and prediction.  | Google Colab, Pandas, NumPy, Scikit-learn |
+| 02 | Diabetes Prediction | Built a model using two different models SVM and Random Forest to predict whether the data represents diabetes or not. Learned about data visualization, confusion matrix, matrics, and how to work with different models and select which one to be used based on the accuracy. | Matplotlib, Seaborn |
 
- 
